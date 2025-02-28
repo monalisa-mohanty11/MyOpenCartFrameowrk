@@ -15,14 +15,14 @@
 			<parameter name="browser" value="chrome" />
 		</classes>
 	</test>
-	<test name="Login Page Test_edge">
+	<!--<test name="Login Page Test_edge">
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 			<parameter name="browser" value="edge" />
 		</classes>
 	</test>
 	
-	<!--<test name="Home Page Test">
+	<test name="Home Page Test">
 		<classes>
 			<class name="com.qa.opencart.tests.HomePageTest" />
 			<parameter name="browser" value="chrome" />
